@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/markthuri7/Vulnerability-Management-Lab)**
+- **[Vulnerability Management Project Lab](https://github.com/markthuri7/Vulnerability-Management-Lab)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
