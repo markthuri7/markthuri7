@@ -1,16 +1,15 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/mark-mathiu-117baa213/">Mark Mathiu</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<!--
-**markthuri7/markthuri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/markthuri7/Vulnerability-Management-Lab)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+
+<hr/>
