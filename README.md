@@ -3,7 +3,7 @@
 I'm passionate about IT and cybersecurity and love tackling complex challenges through hands-on projects.
 
 ## IT Lab
-- **[Enterprise IT Lab] (https://github.com/markthuri7/Enterprise-IT-Security-Lab)**
+- **[Enterprise IT Lab](https://github.com/markthuri7/Enterprise-IT-Security-Lab)**
 
 ## ⚠️ Vulnerability Management Projects
 
